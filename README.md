@@ -16,9 +16,9 @@ In this imaginary world, mana powers cities and protects them from dungeon outbr
 │ └── X_test_processed.csv
 ├── Modele/
 │ └── model_linear_regression.pkl
+├── main
 ├── predictions.csv
-├── train_model.py
-├── evaluate_model.py
+├── notes
 └── README.md
 ```
 
