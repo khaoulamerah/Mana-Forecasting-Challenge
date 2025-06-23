@@ -22,7 +22,7 @@ In this imaginary world, mana powers cities and protects them from dungeon outbr
 └── README.md
 ```
 
-## 🧪 Fonctionnalités principales
+##  Fonctionnalités principales
 
 - Traitement et nettoyage des données (`fillna`, encodage One-Hot de `city`)
 - Normalisation des variables numériques avec `StandardScaler`
@@ -31,7 +31,7 @@ In this imaginary world, mana powers cities and protects them from dungeon outbr
 - Prédiction de la demande sur des données de test
 - Évaluation du modèle avec l’erreur quadratique moyenne (MSE)
 
-## ⚙️ Dépendances
+## Dépendances
 
 To run this project, you need the following Python libraries:
 
