@@ -7,6 +7,7 @@ This repository contains my solution to the **Mana Forecasting Challenge**, an A
 In this imaginary world, mana powers cities and protects them from dungeon outbreaks. I use machine learning to forecast mana demand and help stabilize the mana infrastructure.
 
 ## Project Structure
+```
 .
 ├── Data/
 │ ├── forcast_train_data.csv
@@ -19,7 +20,7 @@ In this imaginary world, mana powers cities and protects them from dungeon outbr
 ├── train_model.py
 ├── evaluate_model.py
 └── README.md
-
+```
 
 ## 🧪 Fonctionnalités principales
 
@@ -44,7 +45,6 @@ Install them using:
 ```bash
 pip install pandas scikit-learn matplotlib seaborn joblib
 ```:disable-run
-
 
 
 
